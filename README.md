@@ -74,7 +74,6 @@ I've only tried with Gmail, not sure if other email services work at this point.
 Currently there are 4 locations that are available, choose the number for needed one.
 - 1 for Lawrence - 1202 APOLLO WAY, SUNNYVALE, CA, 94085
 - 2 for Hollenbeck - 1637 HOLLENBECK AVE, SUNNYVALE, CA, 94087
-- 3 for Milpitas - 10 S ABBOTT AVE, MILPITAS, CA, 95035
 - 4 for San Jose - 1763 CAPITOL EXPY, SAN JOSE, CA, 95121
 
 #### Open Browser
